@@ -1,5 +1,4 @@
 # Tableau Mini Project
-
 Tableau Url:
 https://public.tableau.com/app/profile/kesnel.samuel/viz/MiniProjectLoanAnalysis/Dashboard
 
